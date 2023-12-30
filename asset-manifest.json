@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Purushotham-kuntumalla/NikeBrandHomePage/static/css/main.930a4275.css",
+    "main.js": "/Purushotham-kuntumalla/NikeBrandHomePage/static/js/main.a42adf1a.js",
+    "static/js/787.a45c43fc.chunk.js": "/Purushotham-kuntumalla/NikeBrandHomePage/static/js/787.a45c43fc.chunk.js",
+    "index.html": "/Purushotham-kuntumalla/NikeBrandHomePage/index.html",
+    "main.930a4275.css.map": "/Purushotham-kuntumalla/NikeBrandHomePage/static/css/main.930a4275.css.map",
+    "main.a42adf1a.js.map": "/Purushotham-kuntumalla/NikeBrandHomePage/static/js/main.a42adf1a.js.map",
+    "787.a45c43fc.chunk.js.map": "/Purushotham-kuntumalla/NikeBrandHomePage/static/js/787.a45c43fc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.930a4275.css",
+    "static/js/main.a42adf1a.js"
+  ]
+}
