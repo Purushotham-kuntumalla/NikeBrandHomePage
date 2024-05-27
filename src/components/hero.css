@@ -13,6 +13,7 @@ background: linear-gradient(to right, #FFFFFF, #6DD5FA, #2980B9); /* W3C, IE 10+
   position: fixed ;
   font-family: Rubik Doodle Shadow;
   font-weight: 900;
+  z-index: 99;
   height: 42px;
  display: grid;
  grid-template-columns: 1fr 1fr 1fr 1fr 2fr;
