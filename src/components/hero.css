@@ -1,0 +1,122 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Creepster&family=Croissant+One&family=Fuggles&family=Kanit:ital,wght@0,100;1,100&family=Poppins:ital,wght@0,100;1,100&family=Rubik+Doodle+Shadow&family=Rubik+Glitch&display=swap');
+
+body
+{
+ background: #2980B9;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #FFFFFF, #6DD5FA, #2980B9);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #FFFFFF, #6DD5FA, #2980B9); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+}
+.navigation{
+  position: fixed ;
+  font-family: Rubik Doodle Shadow;
+  font-weight: 900;
+  height: 42px;
+ display: grid;
+ grid-template-columns: 1fr 1fr 1fr 1fr 2fr;
+  align-items: center;
+  margin: 0 auto;
+  padding: 1rem;
+}
+.logo{
+  width: 70px;
+}
+li{
+  list-style: none;
+}
+.navigation .nav-links{
+  display: flex;
+  gap: 24px;
+  color: #fff;
+  font-size: 1.2rem;
+  text-shadow: 12px 1px 12px #000;
+  
+}
+
+.navigation .nav-links:hover{
+  text-decoration: underline;
+  text-shadow: 12px 1px 12px #fff;
+  color: #D01C28;
+  scale: 1;
+  cursor: pointer;
+ transition: all .3s ease-in-out;
+}
+
+.container{
+ display: flex;
+ flex-direction: row;
+ flex-wrap: wrap;
+ align-items: center;
+ justify-content: space-between;
+ margin:  3rem ;
+}
+
+.hero-content{
+ 
+ width: 500px;
+  height: 613px;
+}
+
+
+ h1
+{
+  font-family: Rubik Glitch;
+  font-weight: 100;
+font-size: 76px;
+line-height: 102px;
+letter-spacing: 0em;
+text-align: left;
+
+
+}
+.hero-para p
+{
+  font-family: Kanit;
+font-size: 16px;
+font-weight: 600;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.hero-buttons {
+  width:400px;
+height:41px;
+
+}
+
+.btn
+{
+  font-family: poppins;
+  font-size: 1.2rem;
+  font-weight: 900;
+  
+  cursor: pointer;
+background: #D01C28;
+border: transparent;
+color: #fff;
+width: 120px;
+height: 40px;
+top: 21px;
+left: 1286px;
+padding: 6px, 16px, 6px, 16px;
+border-radius: 8px;
+margin-right: 20px;
+transition: ease .6s;
+
+}
+
+.btn:hover{
+  border: 1px solid #fff;
+  color: #6DD5FA;
+  background-color: #000;
+}
+
+.image-shoe:hover{
+  transition: ease-in .6s;
+  scale: 1.1;
+
+}
+
