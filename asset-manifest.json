@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Purushotham-kuntumalla/NikeBrandHomePage/static/css/main.930a4275.css",
-    "main.js": "/Purushotham-kuntumalla/NikeBrandHomePage/static/js/main.a42adf1a.js",
-    "static/js/787.a45c43fc.chunk.js": "/Purushotham-kuntumalla/NikeBrandHomePage/static/js/787.a45c43fc.chunk.js",
-    "index.html": "/Purushotham-kuntumalla/NikeBrandHomePage/index.html",
-    "main.930a4275.css.map": "/Purushotham-kuntumalla/NikeBrandHomePage/static/css/main.930a4275.css.map",
-    "main.a42adf1a.js.map": "/Purushotham-kuntumalla/NikeBrandHomePage/static/js/main.a42adf1a.js.map",
-    "787.a45c43fc.chunk.js.map": "/Purushotham-kuntumalla/NikeBrandHomePage/static/js/787.a45c43fc.chunk.js.map"
+    "main.css": "/NikeBrandHomePage/static/css/main.94d7ff51.css",
+    "main.js": "/NikeBrandHomePage/static/js/main.1b9e0427.js",
+    "static/js/787.a45c43fc.chunk.js": "/NikeBrandHomePage/static/js/787.a45c43fc.chunk.js",
+    "index.html": "/NikeBrandHomePage/index.html",
+    "main.94d7ff51.css.map": "/NikeBrandHomePage/static/css/main.94d7ff51.css.map",
+    "main.1b9e0427.js.map": "/NikeBrandHomePage/static/js/main.1b9e0427.js.map",
+    "787.a45c43fc.chunk.js.map": "/NikeBrandHomePage/static/js/787.a45c43fc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.930a4275.css",
-    "static/js/main.a42adf1a.js"
+    "static/css/main.94d7ff51.css",
+    "static/js/main.1b9e0427.js"
   ]
 }
